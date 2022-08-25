@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <h2>React App</h2>
+          <h2>React App Loser</h2>
       </header>
     </div>
   );
